@@ -34,7 +34,7 @@ body{
 }
 
 div:nth-child(even){
-    border-style:solid;
+    border-style: solid;
 }
 
 }
