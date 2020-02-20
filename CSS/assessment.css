@@ -4,32 +4,28 @@ img{
     margin-right: auto;
     width: 120px; 
     margin-bottom: 15px; 
-    /*Your code here*/
-    
  }
 
+h1{
+    text-align: center;
+}
 
 #mystuff{
     display:grid;
-    grid-column: 2;
-    
-    
+    grid-template-columns: auto auto;  
 }
+
 div{
     padding: 30px; 
     margin:5px; 
-    /* YOUR CODE HERE */
-
+    text-align: center;
  }
 
 body{
-
     background-image: url('../images/back-ground.jpeg');
 }
 
  
-
-
 @media screen and (min-width: 850px){
 
 }
