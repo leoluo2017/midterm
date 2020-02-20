@@ -1,0 +1,35 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px; 
+    margin-bottom: 15px; 
+    /*Your code here*/
+    
+ }
+
+
+#mystuff{
+    display:grid;
+    grid-column: 2;
+    
+    
+}
+div{
+    padding: 30px; 
+    margin:5px; 
+    /* YOUR CODE HERE */
+
+ }
+
+body{
+
+    background-image: url('../images/back-ground.jpeg');
+}
+
+ 
+
+
+@media screen and (min-width: 850px){
+
+}
