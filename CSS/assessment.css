@@ -25,7 +25,16 @@ body{
     background-image: url('../images/back-ground.jpeg');
 }
 
- 
 @media screen and (min-width: 850px){
+
+#mystuff{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    
+}
+
+div{
+    border-style:solid;
+}
 
 }
